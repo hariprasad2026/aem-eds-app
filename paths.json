@@ -1,0 +1,11 @@
+{
+  "mappings": [
+    "/content/eds-xwalk-demo/:/",
+    "/content/eds-xwalk-demo/home-page:/home-page",
+    "/content/eds-xwalk-demo/configuration:/.helix/config.json",
+    "/content/eds-xwalk-demo/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/eds-xwalk-demo"
+  ]
+}
